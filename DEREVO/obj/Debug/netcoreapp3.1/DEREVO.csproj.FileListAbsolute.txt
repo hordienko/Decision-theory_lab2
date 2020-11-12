@@ -1,0 +1,25 @@
+C:\Users\Latitude\source\repos\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.exe
+C:\Users\Latitude\source\repos\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.deps.json
+C:\Users\Latitude\source\repos\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.runtimeconfig.json
+C:\Users\Latitude\source\repos\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.runtimeconfig.dev.json
+C:\Users\Latitude\source\repos\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.dll
+C:\Users\Latitude\source\repos\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.pdb
+C:\Users\Latitude\source\repos\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.dll
+C:\Users\Latitude\source\repos\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.pdb
+C:\Users\Latitude\source\repos\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.genruntimeconfig.cache
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.exe
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.deps.json
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.runtimeconfig.json
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.runtimeconfig.dev.json
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.dll
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\bin\Debug\netcoreapp3.1\DEREVO.pdb
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.csprojAssemblyReference.cache
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.AssemblyInfoInputs.cache
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.AssemblyInfo.cs
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.csproj.CoreCompileInputs.cache
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.dll
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.pdb
+D:\навчання\4 курс\7 семестр\Теорія прийняття рішень(Кривий)\DEREVO\obj\Debug\netcoreapp3.1\DEREVO.genruntimeconfig.cache
